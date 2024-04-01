@@ -1,13 +1,13 @@
 body {
-  background-color: lightblue;
+  background-color: lightgray;
 }
 
 h1 {
-  color: navy;
+  color: slateblue;
   margin-left: 20px;
 }
 p {
-  color: red;}
+  color: orange;}
 
 }
 p#overview {
