@@ -1,13 +1,13 @@
 body {
-  background-color: white;
+  background-color: lightgray;
 }
 
 h1 {
-  color: royalblue;
+  color:rgb(31, 120, 117);
   margin-left: 20px;
 }
 p {
-  color: orange;}
+  color:rgb(245, 167, 0);}
 
 }
 p#overview {
